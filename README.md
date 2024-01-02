@@ -33,7 +33,7 @@ Expense Splitter is a React application designed to simplify the process of mana
    ```bash
    npm install
 
-Usage
+### Usage 
 1. Start the React development server:
 
    ```bash
@@ -43,5 +43,5 @@ Usage
 
 3. Use the application to add shared expenses, split bills, and keep track of reimbursements.
 
-License
+### License
 This project is licensed under the [MIT License]([url](https://opensource.org/license/mit/).
