@@ -21,15 +21,27 @@ Expense Splitter is a React application designed to simplify the process of mana
    ```bash
    git clone https://github.com/Eloquence98/expense-splitter
 
-Navigate to the project directory:
+
+2. Navigate to the project directory:
 
    ```bash
-cd expense-splitter
+   cd expense-splitter
 
-Install dependencies:
+
+3. Install dependencies:
 
    ```bash
-npm install
+   npm install
 
 Usage
-Start the React development server:
+1. Start the React development server:
+
+   ```bash
+   npm start
+
+2. Open your browser and navigate to http://localhost:3000.
+
+3. Use the application to add shared expenses, split bills, and keep track of reimbursements.
+
+License
+This project is licensed under the [MIT License]([url](https://opensource.org/license/mit/).
