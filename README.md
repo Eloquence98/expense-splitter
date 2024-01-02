@@ -25,3 +25,11 @@ Navigate to the project directory:
 
    ```bash
 cd expense-splitter
+
+Install dependencies:
+
+   ```bash
+npm install
+
+Usage
+Start the React development server:
