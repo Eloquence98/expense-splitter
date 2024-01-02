@@ -44,4 +44,4 @@ Expense Splitter is a React application designed to simplify the process of mana
 3. Use the application to add shared expenses, split bills, and keep track of reimbursements.
 
 ### License
-This project is licensed under the [MIT License][url](https://opensource.org/license/mit/).
+This project is licensed under the [MIT License]([url](https://opensource.org/license/mit)https://opensource.org/license/mit).
